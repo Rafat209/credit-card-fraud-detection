@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Credit Card Fraud Detection" width="700"/>
+</p>
+
 # 💳 Credit Card Fraud Detection
 
 This project builds a machine learning model to detect fraudulent credit card transactions using the [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
