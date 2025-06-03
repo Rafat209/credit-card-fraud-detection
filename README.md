@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Credit Card Fraud Detection" width="700"/>
+  <img src="credit_card.png" alt="Credit Card Fraud Detection" width="700"/>
 </p>
 
 # 💳 Credit Card Fraud Detection
